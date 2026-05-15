@@ -1,4 +1,4 @@
-module  github.com/KristiyanIvanow/go-mqtt-lib
+module github.com/KristiyanIvanow/go-mqtt-lib
 
 go 1.18
 
