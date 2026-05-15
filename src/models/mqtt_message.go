@@ -1,6 +1,6 @@
 package models
 
-import "sdk-go/src/types"
+import "github.com/KristiyanIvanow/go-mqtt-lib/src/types"
 
 // MqttMessage represents an MQTT message received or to be published.
 type MqttMessage struct {

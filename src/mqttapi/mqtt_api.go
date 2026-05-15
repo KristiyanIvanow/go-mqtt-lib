@@ -3,7 +3,7 @@
 // (custom user handler, desired-properties handler, direct-method handler).
 package mqttapi
 
-import "sdk-go/src/models"
+import "github.com/KristiyanIvanow/go-mqtt-lib/src/models"
 
 // MqttAPI is the interface implemented by message handlers
 // registered with the MQTT client.

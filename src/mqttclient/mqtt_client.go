@@ -16,11 +16,11 @@ import (
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 
-	sdkerrors "sdk-go/src/errors"
-	"sdk-go/src/logger"
-	"sdk-go/src/models"
-	"sdk-go/src/mqttapi"
-	"sdk-go/src/types"
+	sdkerrors "github.com/KristiyanIvanow/go-mqtt-lib/src/errors"
+	"github.com/KristiyanIvanow/go-mqtt-lib/src/logger"
+	"github.com/KristiyanIvanow/go-mqtt-lib/src/models"
+	"github.com/KristiyanIvanow/go-mqtt-lib/src/mqttapi"
+	"github.com/KristiyanIvanow/go-mqtt-lib/src/types"
 )
 
 // MQTTManager is the singleton MQTT client.

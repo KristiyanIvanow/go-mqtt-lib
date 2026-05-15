@@ -1,6 +1,6 @@
 package models
 
-import "sdk-go/src/types"
+import "github.com/KristiyanIvanow/go-mqtt-lib/src/types"
 
 // ScanStatus represents the current state of a topic scanning operation.
 type ScanStatus struct {

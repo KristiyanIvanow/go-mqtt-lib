@@ -1,6 +1,6 @@
 package models
 
-import "sdk-go/src/types"
+import "github.com/KristiyanIvanow/go-mqtt-lib/src/types"
 
 // MqttSubscriptionModel represents an MQTT topic subscription.
 type MqttSubscriptionModel struct {
