@@ -1,4 +1,4 @@
-module go-mqtt-lib
+module sdk
 
 go 1.18
 
